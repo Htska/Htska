@@ -37,7 +37,7 @@ I´m a Computer Science student who loves learning new and interesting things.
 |[Data Structures Plotter](https://github.com/Htska/Data-Structures-Project-Plotter) | Data Structures SVG plotter | Java, SVG|
 |[Maze](https://github.com/Htska/Project-3-Data-Structures) | Maze generator and solver| Java, SVG|
 |[Store API](https://github.com/Vnnxy/DWB-product/tree/develop) | A RESTful API built to manage and track inventory for a store. | Java, Spring Boot|
-|[Olympics DB](https://github.com/Htska/Db/tree/main/ProyectoFinal_equipo) | A complete DB system to manage an oolympic event | SQL|
+|[Olympics DB](https://github.com/Htska/Db/tree/main/ProyectoFinal_equipo) | A complete DB system to manage an Olympics | SQL|
 
 ## 🌐 Languages
 
