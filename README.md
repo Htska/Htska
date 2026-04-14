@@ -13,12 +13,12 @@ I´m a Computer Science student who loves learning new and interesting things.
 
 ## 💻 Tech stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 
@@ -27,6 +27,17 @@ I´m a Computer Science student who loves learning new and interesting things.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+|[HaikuAI](https://github.com/Htska/Haiku-Generator) | A Decoder-Only Transformer Haiku Generator | Python, Pytorch, Gradio|
+|[Obj Reader](https://github.com/Htska/Visualizacion_Obj_Reader) | An OpenGL app, reads and draws obj files | C++, OpenGL|
+|[File Storage](https://github.com/Vnnxy/MyP_2024-1/tree/main/proyecto2) | Remote file storage and text editor system | Java, JavaFX|
+|[Function plotter](https://github.com/Htska/Visualizacion_Graficador_Funciones) | An OpenGL project to plot several functions with their scalar fields| C++, OpenGL|
+|[Game of Life](https://github.com/Htska/GameOfLife)| Conway's Game of Life adaptation app. | C++, SFML|
+|[Computer Graphics](https://github.com/Htska/Graficacion-por-Computadoras)| Repository containing all the materials and code created by me as teaching assistant for computer graphics course. | C++, OpenGL, SFML|
+|[Animations](https://github.com/Htska/3d-Animations) | Some of the animations I have done | Blender|
+|[Data Structures Plotter](https://github.com/Htska/Data-Structures-Project-Plotter) | Data Structures SVG plotter | Java, SVG|
+|[Maze](https://github.com/Htska/Project-3-Data-Structures) | Maze generator and solver| Java, SVG|
+|[Store API](https://github.com/Vnnxy/DWB-product/tree/develop) | A RESTful API built to manage and track inventory for a store. | Java, Spring Boot|
+|[Olympics DB](https://github.com/Htska/Db/tree/main/ProyectoFinal_equipo) | A complete DB system to manage an oolympic event | SQL|
 
 ## 🌐 Languages
 
