@@ -4,7 +4,7 @@ I´m a Computer Science student who loves learning new and interesting things.
 
 ## Info:
 - 🎮 **Interested in:** Computer Graphics, Videogames,AI, Animation and Web development.
-- 🎓 **Working** as teaching assitant at UNAM.
+- 🎓 **Working** as teaching assistant at UNAM.
 
 ## 🌱 Currently learning
 - **Unity,Lua** for game development.
