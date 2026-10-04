@@ -1,17 +1,17 @@
-## Hi there👋, I´m Ramón
+## Hi there, I´m Ramón
 
 I´m a Computer Science student who loves learning new and interesting things.
 
 ## Info:
-- 🎮 **Interested in:** Computer Graphics, Videogames,AI, Animation and Web development.
-- 🎓 **Working** as teaching assistant at UNAM.
+-  **Interested in:** Computer Graphics, Videogames,AI, Animation and Web development.
+-  **Working** as teaching assistant at UNAM.
 
-## 🌱 Currently learning
+##  Currently learning
 - **Unity,Lua** for game development.
 - **Go** for Backend developmnet.
 - **Blender** for 3d modeling.
 
-## 💻 Tech stack
+##  Tech stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@ I´m a Computer Science student who loves learning new and interesting things.
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 
 
-## 🔨 Projects
+##  Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
